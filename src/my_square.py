@@ -1,6 +1,6 @@
-def my_square(x):
+def my_square(y):
     
     # this script requires a intiger argument
     # here we use ** operator
-    return(x**2)
-print(my_square(4))
+    return(y**2)
+print(my_square(42))
